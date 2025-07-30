@@ -17,7 +17,7 @@
 |--------|-------------|
 | [github-actions-cicd](https://github.com/Sachin-Viru/url-mini.git) | CI/CD with GitHub Actions: Trivy scan, SonarQube analysis, Docker Hub push  |
 | [jenkins-cicd](https://github.com/yourname/jenkins-cicd) | Jenkins pipelines with SonarQube, Trivy, Docker |
-| [log-pipeline-filebeat-logstash-rabbitmq](https://github.com/Sachin-Viru/distributed-log-ingestion.git) | |
+| [log-pipeline-filebeat-logstash-rabbitmq] | (https://github.com/Sachin-Viru/distributed-log-ingestion.git) |
 
 ---
 
