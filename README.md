@@ -7,8 +7,7 @@
 - ☁️ Working on private LTE/SIP infrastructure, Jenkins CI/CD, and Docker
 - 🛠️ Tools I work with: Bash, Ansible, Docker, Jenkins, Prometheus, Grafana
 - 📚 Currently learning: Kubernetes, GitHub Actions, Infrastructure Monitoring
-- 📝 I document everything I learn in this GitHub profile!
-
+- 📝 Important things I learn are documented in this GitHub profile!
 ---
 
 ## 🔧 My Projects & Labs
