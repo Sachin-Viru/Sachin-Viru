@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Sachin.Viru
 
-## 👨‍💻 Linux System Administrator | DevOps Learner | Open Source Enthusiast
+## 👨‍💻 Linux System Administrator | SRE Learner | Open Source Enthusiast
 
-- 💻 2.8+ years of hands-on experience in managing Linux servers and services
+- 💻 3+ years of hands-on experience in managing Linux servers and services
 - 🔐 Skilled in SSH, IPTables, SELinux, systemd, crontab, log management
 - ☁️ Working on private LTE/SIP infrastructure, Jenkins CI/CD, and Docker
 - 🛠️ Tools I work with: Bash, Ansible, Docker, Jenkins, Prometheus, Grafana
