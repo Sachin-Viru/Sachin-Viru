@@ -17,7 +17,7 @@
 | [github-actions-cicd](https://github.com/Sachin-Viru/url-mini.git) | CI/CD with GitHub Actions: Trivy scan, SonarQube analysis, Docker Hub push  |
 | [jenkins-cicd](https://github.com/Sachin-Viru/sre-website.git) | Jenkins pipelines with SonarQube, Trivy, Docker |
 | [log-pipeline-filebeat-logstash-rabbitmq](https://github.com/Sachin-Viru/distributed-log-ingestion.git) | Real-time log forwarding pipeline: Filebeat → Logstash → RabbitMQ with examples |
-| [ansible-tutorial](https://github.com/Sachin-Viru/ansible-tutorial.git) | Step-by-step Ansible playbooks and automation for beginners to intermediate |
+| [ansible-tutorial](https://github.com/Sachin-Viru/ansible-labs.git) | Step-by-step Ansible playbooks and automation for beginners to intermediate |
 ---
 
 ## 🧰 Tools & Technologies 
