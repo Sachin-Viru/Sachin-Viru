@@ -31,7 +31,8 @@ Currently transitioning into the **Site Reliability Engineering (SRE)** domain �
 ---
 
 ### 🛠️ Tools & Technologies I Work With
-**Linux** | **Ansible** | **Bash** | **Docker** | **Jenkins** | **GitHub Actions** | **Prometheus** | **Grafana** | **Kubernetes** | **Trivy** | **SonarQube** | **OWASP**  
+## 🧰 Tools & Technologies 
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </p> 
 
 ---
 
@@ -47,10 +48,6 @@ Currently transitioning into the **Site Reliability Engineering (SRE)** domain �
 | [jenkins-cicd](https://github.com/Sachin-Viru/sre-website.git) | Jenkins pipelines with SonarQube, Trivy, Docker |
 | [log-pipeline-filebeat-logstash-rabbitmq](https://github.com/Sachin-Viru/distributed-log-ingestion.git) | Real-time log forwarding pipeline: Filebeat → Logstash → RabbitMQ with examples |
 | [ansible-tutorial](https://github.com/Sachin-Viru/ansible-labs.git) | Step-by-step Ansible playbooks and automation for beginners to intermediate |
----
-
-## 🧰 Tools & Technologies 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </p>
 
 ---
 
