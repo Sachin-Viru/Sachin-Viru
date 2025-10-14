@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sachin.Viru
+# 👋 Hello, I'm Sachin.V
 
 ## 👨‍💻 Linux System Administrator | SRE Learner | Open Source Enthusiast
 
