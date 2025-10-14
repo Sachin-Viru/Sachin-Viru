@@ -1,13 +1,42 @@
 # 👋 Hello, I'm Sachin.V
 
-## 👨‍💻 Linux System Administrator | SRE Learner | Open Source Enthusiast
+# 👨‍💻 Linux System Administrator | Aspiring SRE | DevOps & Open Source Enthusiast
 
-- 💻 3+ years of hands-on experience in managing Linux servers and services
-- 🔐 Skilled in SSH, IPTables, SELinux, systemd, crontab, log management
-- ☁️ Working on private LTE/SIP infrastructure, Jenkins CI/CD, and Docker
-- 🛠️ Tools I work with: Bash, Ansible, Docker, Jenkins, Prometheus, Grafana
-- 📚 Currently learning: Kubernetes, GitHub Actions, Infrastructure Monitoring
-- 📝 Important things I learn are documented in this GitHub profile!
+### 🚀 About Me
+I'm a passionate **Linux System Administrator** with over **3 years of hands-on experience** managing, automating, and optimizing Linux-based infrastructures.  
+Currently transitioning into the **Site Reliability Engineering (SRE)** domain — focusing on automation, reliability, and observability in production systems.
+
+
+### 🧠 Technical Expertise
+
+- 💻 **Linux Administration** — System hardening, SELinux, user/group management, systemd, crontab, log rotation, and boot optimization  
+- 🔐 **Networking & Security** — IPTables/nftables, SSH hardening, VPN tunnels, TLS/SSL, DNS & DHCP configuration  
+- ⚙️ **Automation & Infrastructure as Code (IaC)** — Ansible playbooks, Bash scripting, GitHub Actions, CI/CD pipeline automation  
+- 📦 **Containerization** — Docker image build, registry management, multi-container orchestration, Trivy vulnerability scanning  
+- ☁️ **CI/CD & Build Pipelines** — Jenkins setup, webhooks, SonarQube code quality analysis, OWASP dependency check, Trivy integration  
+- 📊 **Monitoring & Observability** — Prometheus, Grafana, Node Exporter, Alertmanager rules, log shipping with Filebeat & Logstash  
+- 🧩 **SRE Concepts** — SLI/SLO/SLAs, error budgets, service reliability metrics, incident response, auto-remediation triggers  
+- 🧱 **Private Infrastructure Work** — LTE/SIP server integration, FreePBX, Openfire, Jitsi, and EPC-based internal communication networks  
+
+---
+
+### 🔭 Current Focus
+
+- Learning **Kubernetes internals**, Pods, Services, Ingress, Deployments, and Helm  
+- Exploring **Service Meshes** like Istio and Linkerd for observability and traffic control  
+- Improving **Infrastructure Monitoring** with custom Prometheus exporters  
+- Implementing **self-healing CI/CD pipelines** and **alert-driven automation**  
+- Designing **end-to-end DevOps lab** integrating Jenkins, SonarQube, Trivy, Prometheus, and Grafana  
+
+---
+
+### 🛠️ Tools & Technologies I Work With
+**Linux** | **Ansible** | **Bash** | **Docker** | **Jenkins** | **GitHub Actions** | **Prometheus** | **Grafana** | **Kubernetes** | **Trivy** | **SonarQube** | **OWASP**  
+
+---
+
+### 📚 Learning Philosophy
+> "I believe in learning by building — every configuration, every automation, every issue teaches me something new."
 ---
 
 ## 🔧 My Projects & Labs
