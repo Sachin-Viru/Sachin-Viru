@@ -43,9 +43,9 @@ Currently transitioning into the **Site Reliability Engineering (SRE)** domain â
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" alt="HashiCorp Vault" width="40" height="40"/>
 
-  <!-- Zabbix and Nagios adjusted to 40x40 -->
-  <img src="img.shields.io" alt="Zabbix" width="auto" height="40"/>
-  <img src="img.shields.io" alt="Nagios" width="auto" height="40"/>
+  <!-- Shields.io (always works on GitHub) -->
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white" alt="Nagios"/>
 </p>
 
 ---
