@@ -48,6 +48,7 @@ Currently transitioning into the **Site Reliability Engineering (SRE)** domain â
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
   <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white" alt="Nagios"/>
 </p>
+
 ---
 
 ### ðŸ“š Learning Philosophy
